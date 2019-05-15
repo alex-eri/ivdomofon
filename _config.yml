@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: Защита
 description: Установка и обслуживание домофонов
-github: none
-github.is_project_page: none
+github:
+  is_project_page: false
+  
