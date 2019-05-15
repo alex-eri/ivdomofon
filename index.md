@@ -4,6 +4,8 @@ tel:57-60-67, tel:50-66-65
 
 mailto:domofon2@mail.ru
 
+{% include map.html %}
+
 Договор на ТО
 ============
 
