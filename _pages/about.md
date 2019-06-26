@@ -14,7 +14,7 @@ permalink: /about/
 mailto:domofon2@mail.ru
 
 Видеонаблюдение и сигнализация:
-tel:+79303474595
+tel:57-51-18
 
 
 {% include map.html %}
