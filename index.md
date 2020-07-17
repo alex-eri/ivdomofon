@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Фирма "ЗАЩИТА" - Домофоны, Видеонаблюдение, Сигнализация, Контроль доступа
-permalink: /zaschita/
+permalink: /
 ---
 
 
