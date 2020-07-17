@@ -4,7 +4,11 @@
 
 .t-red {
 
-  .c-navigation,
+   .c-navigation {
+   
+     background: $c__black;
+   }
+   
   .c-header {
     background: $c__red;
   }
